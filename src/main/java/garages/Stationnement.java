@@ -7,6 +7,7 @@ public class Stationnement {
 
 	private final Voiture myCar;
 	private final Garage myGarage;
+        
 
 	private final Date entree = new Date(); // Aujourd'hui
 	private Date fin;
